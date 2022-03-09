@@ -1,2 +1,1 @@
-# fortnite-link-hits
-Tracking how many hits the official fortnite site gets xD
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fwww.fortnite.com)
